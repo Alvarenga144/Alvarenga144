@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alvarenga144
-- 👀 I’m interested in cryptocurrencies 
+- 👀 I’m interested in cryptocurrencies and web development
 - 🌱 I’m currently learning JavaScript, React & Node.Js
 
 
