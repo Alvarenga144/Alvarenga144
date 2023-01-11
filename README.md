@@ -10,14 +10,23 @@ _Support to all company's workmates with his Laptops. Software issues of all lev
 
 - **2021 -> 2021: Tech support, Assistant - Centro Escolar "Salarrué"** <br>
 
-### My Skills
+### My Skills ⚡️🚀 
+- Desing and develop web interfaces applications with, design patterns, responsive app.
+- Using JavaScript & React.js to resolve algoritm problems.
+- Implementing / Modificating HTML, CSS, Bootstrap UI.
+- Full web Application, Front and Back, with PHP, Node.js, and Java. Applying MVC.
+- Related Databases, MSSQL, MySQL.
 
- 
+### Contact and Social Media 🌐👨‍💻
 
-- 👋 Hi, I’m @Alvarenga144
-- 👀 I’m interested in cryptocurrencies and web development
-- 🌱 I’m currently learning JavaScript, React & Node.Js
+- [LinkedIn 💼](https://www.linkedin.com/in/esteban-alvarenga-a7ba61196/)
+- [Twitter 🐦](https://twitter.com/Alvarenga144)
+- [Instagram 📷](https://www.instagram.com/alvarenga_144/)
+- [Medium 📰](https://medium.com/@Alvarenga144)
+- [Platzi 📚](https://platzi.com/p/Alvarenga144/)
+<hr>
 
+&nbsp; ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!---
