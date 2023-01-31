@@ -4,11 +4,15 @@ I'm a Web Frontend Developer, (but I also have knowledge about the backend). I s
 
 ### My Experience 💼✅
 
-- **2022 -> 2023: Junior Developer and Tech support - Urbanica, Real State Development** <br> 
+- **November 2022 → January 2023: Junior Developer and Tech support → Urbanica, Real State Development** <br> 
 > _I participated in a planning of a web application development, contributing diagrams (Flow chart, use case), suggesting techs for the development like, React.js, Node.js, and some API, to connect with SAP Hana. The project's core was, have a "portal" with providers, to buy things for construction, informatics, and company requirements. Connected with SAP, and a relation Database._ <br>
 _Support to all company's workmates with his Laptops. Software issues of all levels, printers issues, intranet._
 
-- **2021 -> 2021: Tech support, Assistant - Centro Escolar "Salarrué"** <br>
+- **April 2021 → May 2021: Programming tutor → ITCA-FEPADE.** <br>
+> _Strengthen students' knowledge of systems, about programming structures, concepts and fundamentals of console development with C++, through the development of exercises and improve programming logic and algorithm resolution, implementing logical thinking._
+_Lead 10 first cycle students, helping to improve their programming logic using the C++ language, with basic sequential structures. Getting them to pass their final exams successfully and with greater solidity of the knowledge taught by the guide teacher._
+
+- **August 2021 → November 2021: Tech support, Assistant → Centro Escolar "Salarrué"** <br>
 > _Support to schoolk task, software issues of all levels and printers._
 
 ### My Skills ⚡️🚀 
