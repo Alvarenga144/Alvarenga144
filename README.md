@@ -24,11 +24,11 @@ _Lead 10 first cycle students, helping to improve their programming logic using 
 
 ### Contact and Social Media 🌐👨‍💻
 
-- [LinkedIn 💼](https://www.linkedin.com/in/esteban-alvarenga-a7ba61196/)
-- [Twitter 🐦](https://twitter.com/Alvarenga144)
-- [Instagram 📷](https://www.instagram.com/alvarenga_144/)
-- [Medium 📰](https://medium.com/@Alvarenga144)
-- [Platzi 📚](https://platzi.com/p/Alvarenga144/)
+- [**LinkedIn 💼**](https://www.linkedin.com/in/alvarenga144/)
+- [**Twitter 🐦**](https://twitter.com/Alvarenga144)
+- [**Instagram 📷**](https://www.instagram.com/alvarenga_144/)
+- [**Medium 📰**](https://medium.com/@Alvarenga144)
+- [**Platzi 📚**](https://platzi.com/p/Alvarenga144/)
 <hr>
 
 &nbsp; ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
