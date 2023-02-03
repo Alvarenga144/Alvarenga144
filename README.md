@@ -2,7 +2,7 @@
 I'm a Web Frontend Developer, (but I also have knowledge about the backend). I started to programming on 2020 (yeah, the year of pandemic). I was studied Technician of Engineering in Informatics Systems, and I graduated in 2023. I'm a Salvadorean, currently searching work as Frontend Developer with Reac.js, JavaScript, HTML and CSS. I have general skills in design patterns, and I apply that in UI web interfaces.
 <hr>
 
-### My Most Recent Projects 
+### My Most Recent Projects ⚛️💻
 
 - [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/)
 , This is a small home page, and its goal is to display a few different styles of component interfaces, such as a card, Bitcoin wallet UI, Instagram stories section, and a dynamic calendar.
