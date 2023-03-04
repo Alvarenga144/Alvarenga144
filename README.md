@@ -22,15 +22,13 @@ I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to pro
 
 ### Connect with me 🌐👨‍💻
 
-<p align="left">
-<a href="https://twitter.com/alvarenga144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvarenga144" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alvarenga144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvarenga144" height="30" width="40" /></a>
-<a href="https://instagram.com/alvarenga_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvarenga_144" height="30" width="40" /></a>
-<a href="https://medium.com/@alvarenga144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alvarenga144" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCz4gfL2CMblINdp_CJ53oNQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="esteban alvarenga" height="30" width="40" /></a>
-</p> 
+- [**💼 LinkedIn**](https://linkedin.com/in/alvarenga144)
+- [**📚 Platzi**](https://platzi.com/p/Alvarenga144/)
+- [**🐦 Twitter**](https://twitter.com/alvarenga144)
+- [**📷 Instagram**](https://instagram.com/alvarenga_144)
+- [**📽️ YouTube**](https://www.youtube.com/channel/UCz4gfL2CMblINdp_CJ53oNQ)
+- [**📰 Medium**](https://medium.com/@alvarenga144)
 
-- [**Platzi 📚**](https://platzi.com/p/Alvarenga144/)
 
 <hr>
 
