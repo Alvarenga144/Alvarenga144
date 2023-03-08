@@ -15,7 +15,6 @@ I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to pro
 - Frontend with: React.js. HTML & CSS
 - Backend with: PHP or Node.js. Applying MVC.
 - Related Databases, MSSQL, MySQL and PostgreSQL.
-<br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvarenga144&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga144&layout=compact&theme=cobalt&hide_border=true" /> |
 | ------------- | ------------- |
