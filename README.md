@@ -1,16 +1,20 @@
-# Hi! Welcome, take a sit 🪑
-I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to programming in 2020 (yeah, the year of pandemic) and I studied Software Development. Currently, learning new technologies and development projects to my own portfolio. I'm very happy to apply all my knowledge through code and change the world a little bit. 
+# ¡Hi, Welcome! 🤓
+I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to programming a few years ago and I studied Software Development. Currently, learning new technologies and development projects for my portfolio. I'm very happy to apply all my knowledge through code and change the world a little bit. 
 <hr>
 
 ### My Most Recent Projects ⚛️💻
 
-- [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/) / Small home page, with a few different styles of components interfaces.  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+- [**TODO LIST**](https://alvarenga144.github.io/TodoList-Reactjs18/) / ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new.
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 - [**PURCHASE FORM**](https://github.com/Alvarenga144/Purchase-Form) / Make your bill, insert many products with a data about client. Process the bill and generate the final voucher. <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+- [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/) / Small home page, with a few different styles of components interfaces.  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
