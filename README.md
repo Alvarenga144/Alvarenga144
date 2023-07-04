@@ -1,30 +1,42 @@
-# ¡Hi, Welcome! 🤓
-I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to programming a few years ago and I studied Software Development. Currently, learning new technologies and development projects for my portfolio. I'm very happy to apply all my knowledge through code and change the world a little bit. 
+# ¡Hola, Bienvenido! 🤓
+Soy Esteban Alvarenga, desarrollador web de El Salvador 🇸🇻. Comencé a programar hace algunos años y estudié Desarrollo de Software. Actualmente, estoy aprendiendo nuevas tecnologías y proyectos de desarrollo para mi portafolio. Me siento muy feliz de aplicar todo mi conocimiento a través del código y contribuir un poco para cambiar el mundo.
+<!--I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to programming a few years ago and I studied Software Development. Currently, learning new technologies and development projects for my portfolio. I'm very happy to apply all my knowledge through code and change the world a little bit. -->
 <hr>
 
-### My Most Recent Projects ⚛️💻
+### Mis Proyectos Más Recientes ⚛️💻
 
-- [**TODO LIST**](https://alvarenga144.github.io/TodoList-Reactjs18/) / ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new.
+- [**TODO LIST**](https://alvarenga144.github.io/TodoList-Reactjs18/) / ¿Siempre olvidas las cosas que quieres hacer? Escribe tus tareas pendientes y márcalas como completadas cuando las termines, elimínalas y comienza una nueva.
+<!-- ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new. -->
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- [**PURCHASE FORM**](https://github.com/Alvarenga144/Purchase-Form) / Make your bill, insert many products with a data about client. Process the bill and generate the final voucher. <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+- [**PURCHASE FORM**](https://github.com/Alvarenga144/Purchase-Form) / Genera tu factura, ingresa varios productos con los datos del cliente. Procesa la factura y genera el comprobante final.
+<!-- Make your bill, insert many products with a data about client. Process the bill and generate the final voucher. --> <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-- [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/) / Small home page, with a few different styles of components interfaces.  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+- [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/) / Página de inicio sencilla, con varios estilos de componentes de interfaz.
+<!-- Small home page, with a few different styles of components interfaces. --> <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-### My Skills ⚡️🚀 
+### Mis Conocimientos ⚡️🚀 
+- Diseño y desarrollo de interfaces web basadas en requisitos, objetivos y resolución de problemas.
+- Creación, conexión y consultas de bases de datos.
+- API RESTful, APIs web.
+- Frontend con: React.js, HTML y CSS.
+- Backend con: PHP o Node.js. Aplicando el patrón MVC.
+- Bases de datos relacionales, como MSSQL, MySQL y PostgreSQL.
+<!--
 - Design and development of web interfaces based on requirements, objectives and problem solving.
 - Creation, connection and queries of databases.
 - RESTful API, web APIs.
 - Frontend with: React.js. HTML & CSS
 - Backend with: PHP or Node.js. Applying MVC.
 - Related Databases, MSSQL, MySQL and PostgreSQL.
+-->
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvarenga144&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga144&layout=compact&theme=cobalt&hide_border=true" /> |
 | ------------- | ------------- |
