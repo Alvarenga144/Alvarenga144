@@ -9,14 +9,15 @@ Soy Esteban Alvarenga, desarrollador web de El Salvador 🇸🇻. Comencé a pro
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <!-- ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new. -->
 
+- [**EMPLOYEES MANAGEMENT**](https://github.com/Alvarenga144/CRUD_SERFTEST_ASP.NET7) / Gestor de registros de Empleados, Lee, Crea, Edita y Elimina registros! <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 - [**PURCHASE FORM**](https://github.com/Alvarenga144/Purchase-Form) / Genera tu factura, ingresa varios productos con los datos del cliente. Procesa la factura y genera el comprobante final. <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <!-- Make your bill, insert many products with a data about client. Process the bill and generate the final voucher. --> 
-
-- [**EMPLOYEES MANAGEMENT**](https://github.com/Alvarenga144/CRUD_SERFTEST_ASP.NET7) / Gestor de registros de Empleados, Lee, Crea, Edita y Elimina registros!
 
 - [**UI COMPONENTS**](https://alvarenga144.github.io/UI-Components-Interfaces/) / Página de inicio sencilla, con varios estilos de componentes de interfaz. <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
