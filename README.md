@@ -5,8 +5,13 @@ Soy Esteban Alvarenga, desarrollador web de El Salvador 🇸🇻. Comencé a pro
 
 ### Mis Proyectos Más Recientes ⚛️💻
 
+- [**ALEJANDRÍA EARLY ACCESS**](https://alexandreya.com/) / Landing page para suscribirse al acceso anticipado de Alejandría App, una nueva aplicación hecha por desarrolladores salvadoreños que funcionará con inteligencia artificial potenciada con ChatGPT. <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<!-- ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new. -->
+
 - [**TODO LIST**](https://alvarenga144.github.io/TodoList-Reactjs18/) / ¿Siempre olvidas las cosas que quieres hacer? Escribe tus tareas pendientes y márcalas como completadas cuando las termines, elimínalas y comienza una nueva. <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <!-- ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new. -->
 
 - [**EMPLOYEES MANAGEMENT**](https://github.com/Alvarenga144/CRUD_SERFTEST_ASP.NET7) / Gestor de registros de Empleados, Lee, Crea, Edita y Elimina registros! <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
