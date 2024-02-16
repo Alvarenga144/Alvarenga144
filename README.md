@@ -1,11 +1,11 @@
 # ¡Hola, Bienvenido! 🤓
-Soy Esteban Alvarenga, desarrollador de Software de El Salvador 🇸🇻. Comencé a programar hace algunos años y estudié Desarrollo de Software. Actualmente, trabajo en una empresa de pagos electronicos salvadoreña como Desarrollador. Me siento muy feliz de aplicar todo mi conocimiento a través de código y contribuir un poco para hacer la vida de los humanos más sencilla.
+Soy Esteban Alvarenga, desarrollador de Software de El Salvador 🇸🇻. Comencé a programar hace algunos años y estudié Desarrollo de Software. Actualmente, trabajo en la fintech más grande de El Salvador como desarrollador. Me siento muy feliz de aplicar todo mi conocimiento a través de código y contribuir un poco para hacer la vida de los humanos más sencilla.
 <!--I'm Esteban Alvarenga, Web Developer from El Salvador 🇸🇻. I started to programming a few years ago and I studied Software Development. Currently, learning new technologies and development projects for my portfolio. I'm very happy to apply all my knowledge through code and change the world a little bit. -->
 <hr>
 
 ### Portafolio 💼 - Mis Proyectos Más Recientes ⚛️💻
 
-- [**ALEJANDRÍA EARLY ACCESS**](https://alexandreya.com/) / Landing page para suscribirse al acceso anticipado de Alejandría App, una nueva aplicación hecha por desarrolladores salvadoreños que funcionará con inteligencia artificial potenciada con ChatGPT. <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- [**ALEJANDRÍA EARLY ACCESS**](https://alexandreya.com/) / Landing page para suscribirse al acceso anticipado de Alejandría App, una nueva aplicación hecha por desarrolladores salvadoreños que funcionará con inteligencia artificial potenciada con OpenAI. <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <!-- ¿Always forget things you want to do? Write your to-do's and mark as completed when you finalize, delete it and start a new. -->
 
