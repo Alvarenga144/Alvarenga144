@@ -20,6 +20,11 @@ Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Co
 - 🌿 Admirante del mundo del café y de la naturaleza
 - 📫 Puedes contactarme acá: [estebanalvarenga2002@gmail.com](mailto:alvarenga144contacto@gmail.com) | [alvarenga144contacto@gmail.com](mailto:alvarenga144contacto@gmail.com)
 
+# 📈 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvarenga144&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga144&layout=compact&theme=cobalt&hide_border=true" /> |
+| ------------- | ------------- |
+
 # 🌐 Conecta Conmigo
 
 - [**💼 LinkedIn**](https://linkedin.com/in/alvarenga144)
@@ -28,13 +33,7 @@ Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Co
 - [**📚 Platzi**](https://platzi.com/p/Alvarenga144/)
 - [**📰 Medium**](https://medium.com/@alvarenga144)
 
-# 📈 GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvarenga144&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga144&layout=compact&theme=cobalt&hide_border=true" /> |
-| ------------- | ------------- |
-
-
-### Tecnologías y Herramientas:
+# 🔮 Tecnologías y Herramientas:
 
 Front, back and infra:
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
