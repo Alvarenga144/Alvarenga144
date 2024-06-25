@@ -9,11 +9,11 @@ Desarrollador Full-Stack y diseñador entusiasta autodidacta de El Salvador 🇸
 
 # 🩻 Sobre mi
 
-Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Comencé a programar hace algunos años y estudié un Técnico de Ingeniería en Sistemas Informáticos. Actualmente, trabajo en la fintech más grande de El Salvador como desarrollador y emprendo la creación de una startup con un pequeño equipo, mediante la cual estoy incursionando en el desarrollo con inteligencia artificial. Me siento muy feliz de aplicar todo mi conocimiento a través de código y contribuir un poco para hacer la vida de los humanos más sencilla.
+Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Comencé a programar hace algunos años y estudié un Técnico de Ingeniería en Sistemas Informáticos. Actualmente, trabajo en la fintech más grande de El Salvador como desarrollador y estudio de manera autodidacta sobre Inteligencia Artificial y nuevas tecnologías. Me siento muy feliz de aplicar todo mi conocimiento a través de código y contribuir un poco para hacer la vida de los humanos más sencilla.
 
 
 - 🔥 Apasionado del desarrollo, programación y el diseño UI
-- 👨🏻‍💻 Desarrollador .NET en [Serfinsa](https://www.redserfinsa.com/) y Desarrollador Principal en [Alejandría](https://alexandreya.com)
+- 👨🏻‍💻 Desarrollador .NET en [Serfinsa](https://www.redserfinsa.com/)
 - 🔭 Estudiante graduado de Técnico de Ingeniería en Sistemas en [ITCA-FEPADE](https://www.itca.edu.sv/)
 - 🚀 Trabajando como desarrollador y creando proyectos personales
 - 🧠 Adquiriendo nuevo aprendizaje en tecnologías modernas para [mi portafolio](https://alvarenga144.github.io/)
