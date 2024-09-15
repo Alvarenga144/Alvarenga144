@@ -4,28 +4,28 @@
 </a>
 </p>
 <p align="center">
-Desarrollador Full-Stack y diseñador entusiasta autodidacta de El Salvador 🇸🇻
+  Full-Stack Developer from El Salvador 🇸🇻
 </p>
 
-# 🩻 Sobre mi
+# 🩻 About me
 
-Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Comencé a programar hace algunos años y estudié un Técnico de Ingeniería en Sistemas Informáticos. Actualmente, trabajo en la fintech más grande de El Salvador como desarrollador y estudio de manera autodidacta sobre Inteligencia Artificial y nuevas tecnologías. Me siento muy feliz de aplicar todo mi conocimiento a través de código y contribuir un poco para hacer la vida de los humanos más sencilla.
+I am Esteban Alvarenga, a Software Developer with over 3 years of experience. I started programming a few years ago and studied a Technical Degree in Computer Systems Engineering. Currently, I work at the largest fintech in El Salvador as a developer, and I self-study Artificial Intelligence and new technologies. I am very happy to apply all my knowledge and contribute with code.
 
 
-- 🔥 Apasionado del desarrollo, programación y el diseño UI
-- 👨🏻‍💻 Desarrollador .NET en [Serfinsa](https://www.redserfinsa.com/)
-- 🔭 Estudiante graduado de Técnico de Ingeniería en Sistemas en [ITCA-FEPADE](https://www.itca.edu.sv/)
-- 🚀 Trabajando como desarrollador y creando proyectos personales
-- 🧠 Adquiriendo nuevo aprendizaje en tecnologías modernas para [mi portafolio](https://alvarenga144.github.io/)
-- 🌿 Admirante del mundo del café y de la naturaleza
-- 📫 Puedes contactarme acá: [estebanalvarenga2002@gmail.com](mailto:alvarenga144contacto@gmail.com) | [alvarenga144contacto@gmail.com](mailto:alvarenga144contacto@gmail.com)
+- 🔥 Passionate about development, programming, and UI design.
+- 👨🏻‍💻 .NET developer at [Serfinsa](https://www.redserfinsa.com/)
+- 🔭 Graduate student with a Technical Degree in Systems Engineering from [ITCA-FEPADE](https://www.itca.edu.sv/)
+- 🚀 Working as a developer and creating personal projects.
+- 🧠 Acquiring new knowledge in modern technologies for [my portfolio](https://alvarenga144.github.io/)
+- 🌿 Admirer of the world of coffee and nature.
+- 📫 Contact me: [estebanalvarenga2002@gmail.com](mailto:alvarenga144contacto@gmail.com) | [alvarenga144contacto@gmail.com](mailto:alvarenga144contacto@gmail.com)
 
 # 📈 GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alvarenga144&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarenga144&layout=compact&theme=cobalt&hide_border=true" /> |
 | ------------- | ------------- |
 
-# 🌐 Conecta Conmigo
+# 🌐 Conect with me
 
 - [**💼 LinkedIn**](https://linkedin.com/in/alvarenga144)
 - [**🐦 Twitter/X**](https://twitter.com/alvarenga144)
@@ -33,7 +33,7 @@ Soy Esteban Alvarenga, desarrollador de Software con +3 años de experiencia. Co
 - [**📚 Platzi**](https://platzi.com/p/Alvarenga144/)
 - [**📰 Medium**](https://medium.com/@alvarenga144)
 
-# 🔮 Tecnologías y Herramientas:
+# 🔮 Tech-tools:
 
 Front, back and infra:
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
