@@ -1,10 +1,7 @@
 <p align="center">
-<a href="https://alvarenga144.github.io/">
-<img width="50%" alt="Hola, soy Esteban. Desarrollador web!" src="./images/readme-hero-name.png" />
-</a>
-</p>
-<p align="center">
-  Full-Stack Developer from El Salvador 🇸🇻
+  <a href="https://alvarenga144.github.io/">
+    <img width="50%" alt="Hola, soy Esteban. Desarrollador web!" src="./images/readme-hero-name.png" />
+  </a>
 </p>
 
 # 🩻 About me
@@ -21,4 +18,3 @@ I am Esteban Alvarenga, a Software Engineer with over 3 years of experience. I s
 - [**📫 estebanalvarenga2018@gmail.com**](mailto:estebanalvarenga2018@gmail.com)
 - [**💼 LinkedIn**](https://linkedin.com/in/alvarenga144)
 - [**📚 Platzi**](https://platzi.com/p/Alvarenga144/)
-
